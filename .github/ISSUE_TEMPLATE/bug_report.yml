@@ -1,0 +1,44 @@
+name: Problema / Bug report
+description: Segnala un problema riproducibile / Report a reproducible problem
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Non allegare documenti personali, credenziali o dati riservati. / Do not attach personal documents, credentials or confidential information."
+  - type: input
+    id: mandarino-version
+    attributes:
+      label: Versione Mandarino / Mandarino version
+      placeholder: 2.1.0-preview
+    validations:
+      required: true
+  - type: input
+    id: windows-version
+    attributes:
+      label: Versione Windows / Windows version
+      placeholder: Windows 11 x64
+    validations:
+      required: true
+  - type: input
+    id: file-type
+    attributes:
+      label: Tipo di file / File type
+      placeholder: DOCX, PDF, PNG, MP4
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passaggi per riprodurre / Reproduction steps
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Risultato atteso / Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Risultato ottenuto / Actual result
+    validations:
+      required: true
