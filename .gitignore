@@ -1,0 +1,9 @@
+# Only explicitly reviewed distribution documents belong in this repository.
+*
+!.gitignore
+!README.md
+!RELEASE-NOTES.md
+!THIRD-PARTY-NOTICES.md
+!.github/
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/bug_report.yml
