@@ -1,37 +1,26 @@
-# Mandarino 2.1.0-preview
+# Mandarino 2.1.1-preview — in preparazione / in preparation
 
-Stato / Status: **preparata localmente, non pubblicata / prepared locally, not published**.
+Nessun binario pubblicato. La verifica distributiva non è conclusa.
+No binary published. Redistribution review is not complete.
 
 ## Italiano
 
-- Identità visibile aggiornata a Mandarino e crediti del creatore con LinkedIn.
-- Cataloghi italiano e inglese completati, con 608 voci ciascuno.
-- Cambio lingua nelle impostazioni e nella finestra principale, conservando i file selezionati.
-- Impostazioni scorrevoli e spiegazione delle opzioni salvate degli strumenti.
-- Pacchetto utenti separato dal progetto di sviluppo; include bytecode Python dell’app e le dipendenze portatili.
-
-Il pacchetto iniziale usa l’italiano; l’inglese si sceglie nelle impostazioni. Il bytecode resta ispezionabile. Il pacchetto non contiene i sorgenti `.py` di Mandarino; i file e le licenze delle dipendenze rimangono inclusi.
+- Creatore: Girolamo Gabriele Ingrassia, LinkedIn nel README.
+- Italiano e inglese inclusi; cambio lingua nelle impostazioni.
+- Parti originali gratuite da usare con diritti riservati; licenze di terzi preservate.
+- EPUB riscritto con codice originale, eliminato l'uso diretto di EbookLib AGPL.
+- Riferimenti al progetto di origine conservati nei soli riconoscimenti legali.
 
 ## English
 
-- User-facing identity updated to Mandarino, with creator credits and LinkedIn.
-- Complete Italian and English catalogs, with 608 entries each.
-- Language switching in Settings and the main window while keeping selected files.
-- Scrollable settings and clearer explanations of saved tool options.
-- End-user package separated from the development project; includes application Python bytecode and portable dependencies.
+- Creator: Girolamo Gabriele Ingrassia, LinkedIn in the README.
+- Italian and English included; change language in Settings.
+- Original contributions free to use with reserved rights; third-party licenses preserved.
+- Original EPUB implementation replaces direct AGPL EbookLib use.
+- Upstream attribution retained in legal acknowledgements.
 
-The initial package defaults to Italian; choose English in Settings. Bytecode remains inspectable. The package excludes Mandarino `.py` sources; dependency files and licenses remain included.
-
-## Pacchetto candidato / Candidate package
-
-File: `Mandarino-2.1.0-preview-Windows-x64-it.zip`
-
-Dimensione / Size: **1,022,456,547 bytes**.
-
-SHA-256:
-
-```text
-c105330cad6dbcd7398ffb6fab593ac4ed07747814139b289ca622ebbfb13a21
-```
-
-Prima della pubblicazione sono da completare le condizioni di distribuzione dell’app e i materiali richiesti dalle licenze delle dipendenze. / Application distribution terms and materials required by dependency licenses must be completed before publication.
+Il candidato ZIP 2.1.0 precedente non è il pacchetto di questa versione.
+Dimensione e checksum 2.1.1 saranno pubblicati soltanto dopo la creazione e
+verifica dell'archivio definitivo e degli obblighi delle dipendenze.
+The previous 2.1.0 ZIP is not this version's package. Size and checksum will
+be provided after the final archive and dependency obligations are verified.

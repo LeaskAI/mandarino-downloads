@@ -15,6 +15,6 @@ Il credito riguarda Mandarino e le sue modifiche. Le opere originali mantengono 
 
 Altri componenti includono Pillow, pypdf, PDFium, OpenCV, RapidOCR, ONNX Runtime, python-docx, openpyxl, python-pptx e reportlab. I testi di licenza e le condizioni complete accompagnano il pacchetto. / Other components include Pillow, pypdf, PDFium, OpenCV, RapidOCR, ONNX Runtime, python-docx, openpyxl, python-pptx and reportlab. License texts and full terms accompany the package.
 
-Mandarino non è affiliato al produttore di Tangerine per Mac. / Mandarino is not affiliated with the maker of Tangerine for Mac.
+La verifica distributiva è ancora aperta: in particolare la wheel pillow-heif include binari GPLv2 e restano da completare i materiali delle dipendenze. Nessun binario è ancora pubblicato. / Redistribution review remains open: the pillow-heif wheel includes GPLv2 binaries and dependency materials still need completion. No binary is published yet.
 
 Questa pagina riassume i riconoscimenti e non sostituisce le licenze o gli obblighi di disponibilità dei sorgenti dei componenti quando applicabili. / This page summarizes acknowledgements and does not replace licenses or applicable component source-availability requirements.

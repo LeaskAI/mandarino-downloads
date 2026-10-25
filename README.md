@@ -56,6 +56,6 @@ When reporting a problem, include your Mandarino version, Windows version, file 
 
 ## Licenze / Licenses
 
-Le condizioni incluse in ciascun pacchetto si applicano alla relativa versione. I componenti di terze parti mantengono autori e licenze originali. Vedi [riconoscimenti](THIRD-PARTY-NOTICES.md).
+Dalla 2.1.1-preview, le parti originali sono gratuite da usare con diritti riservati a Girolamo Gabriele Ingrassia. Le condizioni incluse in ciascun pacchetto si applicano alla relativa versione; i diritti già concessi sulle copie precedenti restano validi. I componenti di terze parti mantengono autori e licenze originali. Vedi [riconoscimenti](THIRD-PARTY-NOTICES.md).
 
-The terms included in each package apply to that version. Third-party components retain their original authors and licenses. See [acknowledgements](THIRD-PARTY-NOTICES.md).
+From 2.1.1-preview, original contributions are free to use with rights reserved by Girolamo Gabriele Ingrassia. The terms included in each package apply to that version; previously granted rights remain valid. Third-party components retain their original authors and licenses. See [acknowledgements](THIRD-PARTY-NOTICES.md).
