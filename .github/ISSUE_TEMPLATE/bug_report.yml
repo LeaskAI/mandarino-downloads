@@ -9,7 +9,7 @@ body:
     id: mandarino-version
     attributes:
       label: Versione Mandarino / Mandarino version
-      placeholder: 2.1.0-preview
+      placeholder: 2.1.1-preview
     validations:
       required: true
   - type: input
