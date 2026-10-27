@@ -37,12 +37,21 @@ Puoi anche aprire la finestra principale e scegliere i file da lì. / You can al
 ## Funzioni / Features
 
 - Immagini: conversione, compressione, ritaglio, annotazioni e collage. / Images: conversion, compression, cropping, annotations and collages.
-- PDF: creazione da immagini, unione, divisione e organizzazione delle pagine. / PDF: creation from images, merging, splitting and page organization.
+- PDF: creazione da immagini, unione, divisione e organizzazione delle pagine; MD + OCR locale per testo e scansioni. / PDF: creation from images, merging, splitting and page organization; local MD + OCR for text and scans.
 - Documenti, fogli e presentazioni: conversioni locali con LibreOffice incluso. / Documents, spreadsheets and presentations: local conversions with bundled LibreOffice.
 - Audio e video: conversione, compressione e strumenti di modifica. / Audio and video: conversion, compression and editing tools.
 - File: copia, spostamento, archivi e altre azioni. / Files: copying, moving, archives and other actions.
 
 ## Limiti / Limitations
+
+**MD + OCR:** produce un file Markdown e una cartella con le immagini delle
+pagine collegate. Mantienili insieme quando li copi o sposti. Il testo nativo
+è mantenuto e l'OCR legge le scansioni, anche nelle pagine miste; può sbagliare
+lettere e spazi. Non ricostruisce automaticamente tabelle o descrizioni dei
+grafici. / Produces Markdown plus a folder of linked page images. Keep them
+together when copying or moving. Native text is retained and OCR reads scans,
+including mixed pages; recognition may contain errors. It does not automatically
+reconstruct tables or describe charts.
 
 Questa è una versione preview per Windows. Verifica sempre il risultato delle conversioni. PDF → PPTX produce immagini delle pagine; PDF → XLSX estrae testo e tabelle, non formule. Font e impaginazione Office possono differire. L’accesso cloud dal PC avviene tramite cartelle sincronizzate disponibili sul dispositivo. Le app native iOS e Android non sono disponibili.
 
