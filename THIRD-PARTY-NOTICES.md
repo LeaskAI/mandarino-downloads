@@ -28,3 +28,6 @@ Questa pagina riassume i riconoscimenti e non sostituisce le licenze o gli obbli
 [Componenti, sorgenti e stato della verifica](https://mandarino-file-tools.leask01.chatgpt.site/COMPONENT-SOURCES.txt) / [Component sources and review status](https://mandarino-file-tools.leask01.chatgpt.site/COMPONENT-SOURCES.txt). Gli archivi corrispondenti sono ancora in verifica; nessun download di Mandarino è stato pubblicato. / Corresponding archives remain under review; no Mandarino download has been published.
 
 Cobble 0.1.4: Michael Williamson, BSD-2-Clause as stated in the [upstream documentation](https://github.com/mwilliamson/python-cobble). This software is based in part on the work of the FreeType Team (FTL).
+
+
+I soli [materiali sorgente HEIC](https://mandarino-file-tools.leask01.chatgpt.site/mandarino-heic-materiali-2.1.1-preview.zip) sono già disponibili: contengono sorgenti e ricette del componente, non l’app. Gli altri archivi restano in verifica. / The [HEIC-only source materials](https://mandarino-file-tools.leask01.chatgpt.site/mandarino-heic-materiali-2.1.1-preview.zip) are available now: they contain component sources and build recipes, not the app. Other archives remain under review.
