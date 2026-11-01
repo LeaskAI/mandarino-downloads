@@ -21,3 +21,10 @@ La vecchia wheel pillow-heif GPL non è più usata dall'app ed è esclusa dai nu
 La verifica distributiva rimane aperta per i materiali corrispondenti di FFmpeg, Qt/Chromium, LibreOffice e componenti annidati. Il fornitore FFmpeg ha risposto con un manifesto di revisioni e toolchain: i materiali sono in acquisizione e verifica, non ancora completi. Nessun binario è pubblicato. / Redistribution review remains open for matching FFmpeg, Qt/Chromium, LibreOffice and nested-component materials. The FFmpeg supplier has provided a revision and toolchain manifest: materials are being acquired and checked, and are not complete yet. No binary is published.
 
 Questa pagina riassume i riconoscimenti e non sostituisce le licenze o gli obblighi di disponibilità dei sorgenti dei componenti quando applicabili. / This page summarizes acknowledgements and does not replace licenses or applicable component source-availability requirements.
+
+
+## Materiali dei componenti / Component materials
+
+[Componenti, sorgenti e stato della verifica](https://mandarino-file-tools.leask01.chatgpt.site/COMPONENT-SOURCES.txt) / [Component sources and review status](https://mandarino-file-tools.leask01.chatgpt.site/COMPONENT-SOURCES.txt). Gli archivi corrispondenti sono ancora in verifica; nessun download di Mandarino è stato pubblicato. / Corresponding archives remain under review; no Mandarino download has been published.
+
+Cobble 0.1.4: Michael Williamson, BSD-2-Clause as stated in the [upstream documentation](https://github.com/mwilliamson/python-cobble). This software is based in part on the work of the FreeType Team (FTL).
